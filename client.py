@@ -45,4 +45,4 @@ class ChatClient:
 
 if __name__ == "__main__":
 
-    sys.exit(ChatClient( ("127.0.0.1", 12345) ))
+    sys.exit(ChatClient( ("127.0.0.1", 9009) ))
